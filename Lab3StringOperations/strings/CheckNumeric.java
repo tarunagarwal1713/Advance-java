@@ -4,7 +4,7 @@ function isNumeric()
  */
 package strings;
 
-public class CheckNumericString {
+public class CheckNumeric {
 	  public static boolean isNullOrEmpty(String str) {
 	        return str == null || str.trim().isEmpty();
 	    }

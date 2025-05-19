@@ -6,11 +6,11 @@ public class SwapElementsLinkedList {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		LinkedList<String> ls = new LinkedList<>();
-		ls.add("Orange");
-		ls.add("geen");
-		ls.add("pink");
-		ls.add("red");
-		ls.add("Blue");
+		ls.add("Brown");
+		ls.add("Yellow");
+		ls.add("REd");
+		ls.add("Black");
+		ls.add("Violet");
 		System.out.println("Before swapping");
 		System.out.println(ls);
 		//this is used to swap the elements

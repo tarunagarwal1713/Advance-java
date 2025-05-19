@@ -9,10 +9,10 @@ public class ColorSearchArrayList {
 	public static void main(String[] args) {
 		
 		List<String> ls = new ArrayList<>();
+		ls.add("Black");
+		ls.add("SAffron");
 		ls.add("Orange");
-		ls.add("geen");
-		ls.add("pink");
-		ls.add("red");
+		ls.add("Brown");
 		System.out.println(ls);
 		//Contanins or not
 		if(ls.contains("red")) {

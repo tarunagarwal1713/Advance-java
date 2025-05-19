@@ -7,13 +7,13 @@ public class InsertEndLinkedList {
 		// TODO Auto-generated method stub
 
 		LinkedList<String> ls = new LinkedList<>();
-		ls.add("Orange");
-		ls.add("geen");
-		ls.add("pink");
-		ls.add("red");
-		ls.add("Blue");
+		ls.add("Black");
+		ls.add("Saffron");
+		ls.add("Brown");
+		ls.add("Yellow");
+		ls.add("Violet");
 		System.out.println(ls);
-		ls.addLast("pink");
+		ls.addLast("Red");
 		//add element at the last
 		System.out.println(ls);
 	

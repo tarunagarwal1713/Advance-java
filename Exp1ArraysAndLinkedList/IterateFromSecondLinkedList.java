@@ -6,13 +6,13 @@ public class IterateFromSecondLinkedList {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		List<String>	ls = new LinkedList<>();
-		ls.add("Orange");
-		ls.add("geen");
-		ls.add("pink");
-		ls.add("red");
-		ls.add("Blue");
+		ls.add("Black");
+		ls.add("Saffron");
+		ls.add("Brown");
+		ls.add("Yellow");
+		ls.add("Violet");
 		//using an iterator for accesing all the elements
-		Iterator iterator = ls.listIterator(2);
+		Iterator iterator = ls.listIterator(1);
 		while (iterator.hasNext()) {
 		System.out.println(iterator.next());
 		}

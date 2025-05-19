@@ -4,7 +4,7 @@ defined function truncate()
  */
 package strings;
 
-public class CheckNumericString {
+public class StringTurnc {
 		    public static String truncate(String str, int maxLength) {
 		        if (str == null) {
 		            return null;
