@@ -14,7 +14,7 @@ RandomStringGenerator output - https://github.com/tarunagarwal1713/Advance-java/
 
 RemoveWhitespace output - https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/RemoveWhitespace.png
 
-ReverseString output - https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/RemoveWhitespace.png
+ReverseString output - https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/ReverseString.png
 
 StringHandlingDemo1 output - https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/StringHandlingDemo1.png
 
