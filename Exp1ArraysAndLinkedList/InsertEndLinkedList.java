@@ -13,7 +13,7 @@ public class InsertEndLinkedList {
 		ls.add("Yellow");
 		ls.add("Violet");
 		System.out.println(ls);
-		ls.addLast("Red");
+		ls.addLast("pink");
 		//add element at the last
 		System.out.println(ls);
 	

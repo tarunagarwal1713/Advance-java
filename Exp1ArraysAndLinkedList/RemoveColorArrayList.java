@@ -10,15 +10,15 @@ public class RemoveColorArrayList {
 		List<String> ls = new ArrayList<>();
 		ls.add("Black");
 		ls.add("Saffron");
-		ls.add("Brown");
-		ls.add("Yellow");
+		ls.add("brown");
+		ls.add("blue");
 		ls.add("Violet");
 		System.out.println(ls);
 		//to remove the element at index 2
-		ls.remove(3);
+		ls.remove(2);
 		System.out.println(ls);
 		//to remove an element blue
-		ls.remove("Blue");
+		ls.remove("blue");
 		System.out.println(ls);
 	}
 

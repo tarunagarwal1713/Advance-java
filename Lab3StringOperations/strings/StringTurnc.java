@@ -19,7 +19,7 @@ public class StringTurnc {
 		    }
 
 		    public static void main(String[] args) {
-		        String str= "hello i prakhyat shetty and today is monday";
+		        String str= "hello i tarun agarwal and today is sunday";
 		        int maxLength = 10;
 		        System.out.println("Original: " +str);
 		        System.out.println("Truncated to " + maxLength + ": " + truncate(str, maxLength) ); 
