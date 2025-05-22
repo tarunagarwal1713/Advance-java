@@ -6,6 +6,4 @@ Delete output - https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab9J
 
 Deletereport output - https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab9JDBCandJsp/deletereport.png
 
-insertnew output - https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab9JDBCandJsp/insertnew.png
 
-insertnewreport output - https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab9JDBCandJsp/insertnewreport.png
