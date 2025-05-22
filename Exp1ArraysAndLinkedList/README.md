@@ -10,7 +10,7 @@ InsertEndLinkedList output - https://github.com/tarunagarwal1713/Advance-java/bl
 
 IterateFromSecondLinkedList output - https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/IterateFromSecondLinkedList.png
 
-RemoveColorArrayList output - https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/ReverseIterateLinkedList.png
+RemoveColorArrayList output - https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/RemoveColorArrayList.java.png
 
 ReverseIterateLinkedList output - https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/ReverseIterateLinkedList.png
 
