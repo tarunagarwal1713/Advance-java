@@ -10,7 +10,7 @@ This project showcases the outputs of various operations using `ArrayList` and `
 ---
 
 ### 🎨 Search for a Color in an ArrayList
-[ColorSearchArrayList Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/ColorSearchArrayList.png)
+\[ColorSearchArrayList Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/ColorSearchArrayList.png)
 
 ---
 
@@ -56,16 +56,3 @@ This project showcases the outputs of various operations using `ArrayList` and `
 
 ### 🔄 Swap Elements in LinkedList
 [SwapElementsLinkedList Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/SwapElementsLinkedList.png)
-
-
-
-
-
-### 📂 Create a Sublist from ArrayList
-[SubListColorsArrayList Output](http://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/SubListColorsArrayList.png)
-
----
-
-### 🔄 Swap Elements in LinkedList
-[SwapElementsLinkedList Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/SwapElementsLinkedList.png)
-
