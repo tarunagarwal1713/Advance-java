@@ -1,5 +1,5 @@
 # Advance Java -
-Experiment 1: Arrays and LinkedList Operations
+# Experiment 1: Arrays and LinkedList Operations
 
 This project showcases the outputs of various operations using `ArrayList` and `LinkedList` in Java. Each image below represents the result of a specific task performed during the experiment.
 
