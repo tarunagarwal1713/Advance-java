@@ -34,7 +34,7 @@ This project showcases the outputs of various operations using `ArrayList` and `
 
 ---
 
-### 🗑 Remove a Specific Color from ArrayList
+###  Remove a Specific Color from ArrayList
 [RemoveColorArrayList Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/RemoveColorArrayList.java.png)
 
 ---
