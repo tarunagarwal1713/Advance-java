@@ -10,7 +10,7 @@ This project showcases the outputs of various operations using `ArrayList` and `
 ---
 
 ###  Search for a Color in an ArrayList
-\[ColorSearchArrayList Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/ColorSearchArrayList.png)
+[ColorSearchArrayList Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/ColorSearchArrayList.png)
 
 ---
 
