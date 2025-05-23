@@ -187,3 +187,41 @@ This section presents outputs from Java Swing applications utilizing advanced co
 [TabbedPanelExample Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab5Swing/TabbedPaneExample.png)
 
 
+# Advance Java - Experiment 6: HTML and Servlet Integration
+
+This section includes outputs of web-based Java applications using HTML forms and Java Servlets. The screenshots below demonstrate functionalities like factorial and prime number calculation, as well as servlet-based visit tracking.
+
+## 🔍 Outputs
+
+###  Factorial Calculator - Input Page
+[Fact_1 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab6Html/Fact_1.png)
+
+---
+
+###  Factorial Calculator - Result Page
+[Fact_2 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab6Html/Fact_2.png)
+
+---
+
+###  Prime Checker - Input Page
+[Prime_1 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab6Html/Prime_1.png)
+
+---
+
+###  Prime Checker - Result Page
+[Prime_2 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab6Html/Prime_2.png)
+
+---
+
+###  Visit Counter - Initial Visit
+[VisitCounterServlet1 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab6Html/VisitCounterServlet1.jpeg)
+
+---
+
+###  Visit Counter - After Multiple Visits
+[VisitCounterServlet2 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab6Html/VisitCounterServlet2.jpeg)
+
+---
+
+> End of Experiment 6 - HTML and Servlet Integration
+
