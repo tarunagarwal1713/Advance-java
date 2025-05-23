@@ -1,4 +1,5 @@
-# Advance Java - Experiment 1: Arrays and LinkedList Operations
+# Advance Java -
+Experiment 1: Arrays and LinkedList Operations
 
 This project showcases the outputs of various operations using `ArrayList` and `LinkedList` in Java. Each image below represents the result of a specific task performed during the experiment.
 
@@ -58,7 +59,7 @@ This project showcases the outputs of various operations using `ArrayList` and `
 [SwapElementsLinkedList Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/SwapElementsLinkedList.png)
 
 
-# Advance Java - Experiment 2: String Operations and Map Interface
+#  Experiment 2: String Operations and Map Interface
 
 This section showcases the outputs from operations involving the `Map` interface and performance analysis of string operations. Each image below represents the result of a specific operation in Experiment 2.
 
@@ -78,7 +79,7 @@ This section showcases the outputs from operations involving the `Map` interface
 [PerformanceTest Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab2StringOperation/PerformanceTest.png)
 
 
-# Advance Java - Experiment 3: String Handling Operations
+# Experiment 3: String Handling Operations
 
 This section presents outputs from various string manipulation tasks, including capitalization, substring handling, palindrome checking, and more. The following images illustrate the results for each operation.
 
@@ -142,7 +143,7 @@ This section presents outputs from various string manipulation tasks, including 
 ###  Truncate a String
 [StringTurnc Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/StringTurnc.png)
 
-# Advance Java - Experiment 4: Swing GUI Applications
+# Experiment 4: Swing GUI Applications
 
 This section highlights the outputs of graphical user interface applications developed using Java Swing. The images below showcase the visual results of each Swing-based program.
 
@@ -162,7 +163,7 @@ This section highlights the outputs of graphical user interface applications dev
 [SwingExample Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab4Swing/SwingExample.png)
 
 
-# Advance Java - Experiment 5: Advanced Swing Components
+#  Experiment 5: Advanced Swing Components
 
 This section presents outputs from Java Swing applications utilizing advanced components like `JTabbedPane` and `JList`. These screenshots illustrate the graphical results of the programs in Experiment 5.
 
@@ -187,7 +188,7 @@ This section presents outputs from Java Swing applications utilizing advanced co
 [TabbedPanelExample Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab5Swing/TabbedPaneExample.png)
 
 
-# Advance Java - Experiment 6: HTML and Servlet Integration
+# Experiment 6: HTML and Servlet Integration
 
 This section includes outputs of web-based Java applications using HTML forms and Java Servlets. The screenshots below demonstrate functionalities like factorial and prime number calculation, as well as servlet-based visit tracking.
 
@@ -223,7 +224,7 @@ This section includes outputs of web-based Java applications using HTML forms an
 
 ---
 
-# Advance Java - Experiment 7: JSP and Session Management
+# Experiment 7: JSP and Session Management
 
 This section features outputs from JSP-based applications demonstrating cookie management and session tracking. These screenshots show how user interaction is handled across multiple pages and requests.
 
@@ -259,7 +260,7 @@ This section features outputs from JSP-based applications demonstrating cookie m
 
 ---
 
-# Advance Java - Experiment 8: JDBC and JSP Integration
+# Experiment 8: JDBC and JSP Integration
 
 This section showcases the integration of Java Server Pages (JSP) with MySQL database operations using JDBC. The outputs below represent insertions, selections, updates, and report generation through web interfaces.
 
@@ -295,7 +296,7 @@ This section showcases the integration of Java Server Pages (JSP) with MySQL dat
 
 ---
 
-# Advance Java - Experiment 9: JDBC – Search and Delete Operations
+# Experiment 9: JDBC – Search and Delete Operations
 
 This section demonstrates search and delete functionalities using JDBC in a web-based Java environment. The images show the interactive forms and result pages for each operation.
 
