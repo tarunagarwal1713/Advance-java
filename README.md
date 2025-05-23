@@ -295,5 +295,37 @@ This section showcases the integration of Java Server Pages (JSP) with MySQL dat
 
 ---
 
+# Advance Java - Experiment 9: JDBC – Search and Delete Operations
+
+This section demonstrates search and delete functionalities using JDBC in a web-based Java environment. The images show the interactive forms and result pages for each operation.
+
+## 🔍 Outputs
+
+###  Delete Operation - Web Interface
+[9A Delete Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab9JDBCandJsp/9A%20Delete.png)
+
+---
+
+###  Search Operation - Web Interface
+[9B Search Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab9JDBCandJsp/9B%20Search.png)
+
+---
+
+###  Delete Record - Form Submission
+[Delete Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab9JDBCandJsp/delete.png)
+
+---
+
+###  Delete Operation - Report View
+[Deletereport Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab9JDBCandJsp/deletereport.png)
+
+---
+
+###  Search by Salary - Report View
+[SearchSalaryReport Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab9JDBCandJsp/SearchSalaryReport.jpeg)
+
+---
+
+
 
 
