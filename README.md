@@ -223,5 +223,42 @@ This section includes outputs of web-based Java applications using HTML forms an
 
 ---
 
-> End of Experiment 6 - HTML and Servlet Integration
+# Advance Java - Experiment 7: JSP and Session Management
+
+This section features outputs from JSP-based applications demonstrating cookie management and session tracking. These screenshots show how user interaction is handled across multiple pages and requests.
+
+## 🔍 Outputs
+
+###  Cookie Manager - Initial Page
+[CookieManagerJSP Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab7Servlet/CookieManagerJSP.png)
+
+---
+
+###  Cookie Manager - After Cookie Set
+[CookieManagerJSP2 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab7Servlet/CookieManagerJSP2.png)
+
+---
+
+###  Session Welcome Page - Step 1
+[SessionWelcomeJSP1 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab7Servlet/SessionWelcomeJSP1.png)
+
+---
+
+###  Session Welcome Page - Step 2
+[SessionWelcomeJSP2 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab7Servlet/SessionWelcomeJSP2.png)
+
+---
+
+###  Session Welcome Page - Step 3
+[SessionWelcomeJSP3 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab7Servlet/SessionWelcomeJSP3.png)
+
+---
+
+###  Session Welcome Page - Step 4
+[SessionWelcomeJSP4 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab7Servlet/SessionWelcomeJSP4.png)
+
+---
+
+> End of Experiment 7 - JSP and Session Management
+
 
