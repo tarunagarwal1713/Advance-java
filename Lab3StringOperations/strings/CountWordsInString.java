@@ -15,7 +15,7 @@ public class CountWordsInString {
     }
 
     public static void main(String[] args) {
-        String str1 = "Tarun is a studying java subject";
+        String str1 = "Alvas institute of engineering and technology";
         String str2 = "";
         System.out.println( str1 + ": " + countWords(str1)); 
         System.out.println(str2 + ": " + countWords(str2)); 

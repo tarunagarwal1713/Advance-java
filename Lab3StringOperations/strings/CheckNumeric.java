@@ -22,7 +22,7 @@ public class CheckNumeric {
 	    }
 	    public static void main(String[] args) {
 	        String str1 = "12345";
-	      String str2 ="tarun";
+	      String str2 ="alvas";
 	        System.out.println(str1 + "' is numeric: " + isNumeric(str1)); 
 	        System.out.println(str2 + "' is numeric: " + isNumeric(str2)); 
 	    }

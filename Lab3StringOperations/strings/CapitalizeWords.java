@@ -27,7 +27,7 @@ public class CapitalizeWords {
         return result;
     }
 	public static void main(String[]args) {
-		String str = "Hi i tarun agarwal here ";
+		String str = "Hi i sanjay here ";
 	System.out.println( str + ": " + capitalizeWords(str));
 }
 }
