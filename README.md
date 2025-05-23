@@ -77,3 +77,69 @@ This section showcases the outputs from operations involving the `Map` interface
 ###  String Operation Performance Test
 [PerformanceTest Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab2StringOperation/PerformanceTest.png)
 
+
+# Advance Java - Experiment 3: String Handling Operations
+
+This section presents outputs from various string manipulation tasks, including capitalization, substring handling, palindrome checking, and more. The following images illustrate the results for each operation.
+
+## 🔍 Outputs
+
+###  Capitalize Each Word in a String
+[CapitalizeWords Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/CapitalizeWords.png)
+
+---
+
+###  Check if String is Null or Empty
+[CheckNullOrEmpty Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/CheckNullOrEmpty.png)
+
+---
+
+###  Check if String is Numeric
+[CheckNumeric Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/CheckNumeric.png)
+
+---
+
+###  Count Occurrences of a Substring
+[CountSubStringOccurrences Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/CountSubstringOccurrences.png)
+
+---
+
+###  Count Words in a String
+[CountWordsInString Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/CountWordsInString.png)
+
+---
+
+###  Palindrome Checker
+[PalindromeChecker Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/PalindromeChecker.png)
+
+---
+
+###  Random String Generator
+[RandomStringGenerator Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/RandomStringGenerator.png)
+
+---
+
+###  Remove Whitespace from String
+[RemoveWhitespace Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/RemoveWhitespace.png)
+
+---
+
+###  Reverse a String
+[ReverseString Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/ReverseString.png)
+
+---
+
+###  String Handling Demo - Part 1
+[StringHandlingDemo1 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/StringHandlingDemo1.png)
+
+---
+
+###  String Handling Demo - Part 2
+[StringHandlingDemo2 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/StringHandlingDemo2.png)
+
+---
+
+###  Truncate a String
+[StringTurnc Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab3StringOperations/strings/StringTurnc.png)
+
+
