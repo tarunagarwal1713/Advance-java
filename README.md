@@ -259,6 +259,41 @@ This section features outputs from JSP-based applications demonstrating cookie m
 
 ---
 
-> End of Experiment 7 - JSP and Session Management
+# Advance Java - Experiment 8: JDBC and JSP Integration
+
+This section showcases the integration of Java Server Pages (JSP) with MySQL database operations using JDBC. The outputs below represent insertions, selections, updates, and report generation through web interfaces.
+
+## 🔍 Outputs
+
+### Insert Record into Database
+[Insert Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab8JDBCandJSP/insert.png)
+
+---
+
+###  View Record Report
+[Report Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab8JDBCandJSP/report.png)
+
+---
+
+###  Update Record - Input Form
+[Update Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab8JDBCandJSP/update.png)
+
+---
+
+###  Update Report Output
+[UpdateReport Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab8JDBCandJSP/updatereport.png)
+
+---
+
+###  MySQL Data Retrieval
+[Mysql_select Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab8JDBCandJSP/Mysql_select.png)
+
+---
+
+###  MySQL Data Update
+[Mysql_Update Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab8JDBCandJSP/Mysql_Update.png)
+
+---
+
 
 
