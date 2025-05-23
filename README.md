@@ -56,3 +56,24 @@ This project showcases the outputs of various operations using `ArrayList` and `
 
 ### 🔄 Swap Elements in LinkedList
 [SwapElementsLinkedList Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/SwapElementsLinkedList.png)
+
+
+# Advance Java - Experiment 2: String Operations and Map Interface
+
+This section showcases the outputs from operations involving the `Map` interface and performance analysis of string operations. Each image below represents the result of a specific operation in Experiment 2.
+
+## 🔍 Outputs
+
+### 🗺️ Map Interface Demonstration - Part 1
+[MapInterfaceDemo1 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab2StringOperation/MapInterfaceDemo1.png)
+
+---
+
+### 🗺️ Map Interface Demonstration - Part 2
+[MapInterfaceDemo2 Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab2StringOperation/MapInterfaceDemo2.png)
+
+---
+
+### ⏱️ String Operation Performance Test
+[PerformanceTest Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab2StringOperation/PerformanceTest.png)
+
