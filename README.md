@@ -5,12 +5,12 @@ This project showcases the outputs of various operations using `ArrayList` and `
 ## 🔍 Outputs
 
 ### ✅ Basic Array and LinkedList Operations
-![WorkedOutEx Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/WorkedOutEx.png)
+[WorkedOutEx Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/WorkedOutEx.png)
 
 ---
 
 ### 🎨 Search for a Color in an ArrayList
-![ColorSearchArrayList Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/ColorSearchArrayList.png)
+[ColorSearchArrayList Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Exp1ArraysAndLinkedList/ColorSearchArrayList.png)
 
 ---
 
