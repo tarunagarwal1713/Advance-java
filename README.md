@@ -162,3 +162,28 @@ This section highlights the outputs of graphical user interface applications dev
 [SwingExample Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab4Swing/SwingExample.png)
 
 
+# Advance Java - Experiment 5: Advanced Swing Components
+
+This section presents outputs from Java Swing applications utilizing advanced components like `JTabbedPane` and `JList`. These screenshots illustrate the graphical results of the programs in Experiment 5.
+
+## 🔍 Outputs
+
+###  Tabbed Pane with Color Selection
+[ColorTabbedPane Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab5Swing/ColorTabbedPane.png)
+
+---
+
+###  Country and Capital List
+[CountryCapitalList Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab5Swing/CountryCapitalList.png)
+
+---
+
+###  JList Demonstration
+[JListExample Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab5Swing/JListExample.png)
+
+---
+
+###  Tabbed Panel Example
+[TabbedPanelExample Output](https://github.com/tarunagarwal1713/Advance-java/blob/main/Lab5Swing/TabbedPaneExample.png)
+
+
